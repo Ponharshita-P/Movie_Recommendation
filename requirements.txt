@@ -1,6 +1,5 @@
 streamlit
 pandas
-_pickle
 requests 
 ast
 numpy
