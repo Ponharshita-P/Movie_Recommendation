@@ -4,4 +4,4 @@ requests
 ast
 numpy
 bz2
-pip
+pip==23.0.1
