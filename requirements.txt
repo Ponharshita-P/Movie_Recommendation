@@ -1,7 +1,0 @@
-streamlit
-pandas
-requests 
-ast
-numpy
-bz2
-pip
